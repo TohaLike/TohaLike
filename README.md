@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TohaLike
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning in college
+- 👋 Hi, my name is Anton Malyshev!
+- 👀 My major is web-development.
+- 🌱 At that moment I'm study in my college.
 - 💞️ I’m looking to collaborate on 
 
 
