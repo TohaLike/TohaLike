@@ -1,7 +1,5 @@
 - 👋 Hi, my name is Anton Malyshev!
-- 👀 My major is web-development.
-- 🌱 At that moment I'm study in my college.
-- 💞️ I’m looking to collaborate on 
+- 👀 I'm web-developer.
 
 
 <!---
